@@ -1,0 +1,5 @@
+[default]
+debug = True
+switches_inventory = /opt/nsbt/network-switches.list
+backup_dir = /opt/nsbt/dumps
+alerts_mail = alerts@domain.com

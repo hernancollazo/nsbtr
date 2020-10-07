@@ -1,0 +1,3 @@
+# Hostname,Description,IP,Port,Login,Password,Enable,Type
+switch001,CORE,192.168.1.1,22,root,passRoot,passEna,hp
+switch002,LAN,192.168.1.2,22,root,passRoot,passEna,dell
